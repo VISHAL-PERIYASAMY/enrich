@@ -55,3 +55,4 @@ limitations under the License.
 
 [release-image]: https://img.shields.io/badge/release-3.7.1-blue.svg?style=flat
 [releases]: https://github.com/snowplow/enrich/releases
+

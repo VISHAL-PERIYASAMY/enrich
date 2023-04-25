@@ -1,5 +1,5 @@
 3.7.2 (2023-04-26)
-------------------
+------------------ 
 Try to base64 decode event if initial Thrift serialization fails (#777)
 
 3.7.1 (2023-04-13)
